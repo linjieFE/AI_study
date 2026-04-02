@@ -75,6 +75,7 @@ model.fit(X_train, y_train)
 
 # ===================== 4. 模型评估（多维度） =====================
 # 4.1 测试集准确率
+# 预测测试集
 y_pred = model.predict(X_test)
 print(f"🎯 测试集准确率：{accuracy_score(y_test, y_pred):.2%}")
 
