@@ -1,6 +1,6 @@
 '''
-Description  : 
-Version      : 
+Description  : 90天学习计划 - 第6天-机器学习
+Version      : v1.0
 Company      : Flexiv-SH
 Author       : Linjie Zheng
 Date         : 2026-04-02
